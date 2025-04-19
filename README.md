@@ -19,7 +19,8 @@ This project analyzes hospital admissions data for 2023 using Power BI, focusing
 - Plan for seasonal spikes.
 
 ## 📁 Files Included
-- `HospitalAdmissionProject.pbix` - Power BI dashboard file.
+- [`HospitalAdmissionProject.pbix` - Power BI dashboard file.](https://github.com/santhiyaM20-12/santhiyaM20-12/blob/main/HospitalAdmissionProject.pbix
+)
 - 📑 [View Project Report (PDF)](https://github.com/santhiyaM20-12/santhiyaM20-12/blob/main/HospitalAdmissionProject.pdf)
 
 ## 🔗 How to Use
