@@ -20,7 +20,7 @@ This project analyzes hospital admissions data for 2023 using Power BI, focusing
 
 ## 📁 Files Included
 - `HospitalAdmissionProject.pbix` - Power BI dashboard file.
-- `HospitalAdmissionProject.pdf` - Dashboard PDF summary.
+- 📑 [View Project Report (PDF)](https://github.com/santhiyaM20-12/santhiyaM20-12/blob/main/HospitalAdmissionProject.pdf)
 
 ## 🔗 How to Use
 - Download the `.pbix` file and open it in Power BI Desktop.
